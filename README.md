@@ -35,6 +35,7 @@
 ---
 
 <img align="left" alt="davidbetancur8's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidbetancur8&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidbetancur8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://davidbetsan.wixsite.com/website
 [twitter]: https://twitter.com/davidbetasan

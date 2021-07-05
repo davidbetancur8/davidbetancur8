@@ -1,7 +1,6 @@
 ### Hi there, I'm David Betancur - aka [davidbetancur8][website] 👋
 
 ## I'm a Data scientist and Biomedical engineer
-- 🔭 I’m currently working on covid-19 research project!
 - 🌱 I’m currently learning about nlp and computer vision
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

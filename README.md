@@ -42,7 +42,3 @@
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com/davidbeta2
 [linkedin]: https://www.linkedin.com/in/david-betancur-sánchez-714a79154
-[webdevplaylist]: https://www.youtube.com
-[jsplaylist]: https://www.youtube.com
-[cssplaylist]: https://www.youtube.com
-[reactplaylist]: https://www.youtube.com

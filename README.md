@@ -3,7 +3,7 @@
 ## I'm a Data scientist and Biomedical engineer
 - 🌱 I’m currently learning about nlp and computer vision
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
